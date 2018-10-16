@@ -43,26 +43,62 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.ipa../-660C2D0F-6B04-4F59-A3E5-6BCA073D7B8D</string>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-7D1833DF-FCB3-4579-BDA9-189A5E2683A6.ipa</string>
 					<key>variantDescriptors</key>
-					<array/>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+					</array>
 					<key>variantIds</key>
 					<array>
-						<string>iPhone10,2</string>
-						<string>iPhone7,1</string>
-						<string>iPhone10,6</string>
-						<string>iPhone10,5</string>
-						<string>iPhone8,2</string>
-						<string>iPhone9,4</string>
-						<string>iPhone10,3</string>
-						<string>iPhone9,2</string>
+						<string>iPhone11,8</string>
 					</array>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.ipa../-1371D092-852B-435D-AB79-CAF7FE7999BC</string>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-65F07FA3-DC8A-4DF2-B31C-DE808EF5FDFE.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPad7,4</string>
+						<string>iPad4,5</string>
+						<string>iPad7,5</string>
+						<string>iPad4,6</string>
+						<string>iPad6,3</string>
+						<string>iPad5,1</string>
+						<string>iPad6,11</string>
+						<string>iPad7,6</string>
+						<string>iPad5,2</string>
+						<string>iPad6,4</string>
+						<string>iPad4,7</string>
+						<string>iPad5,3</string>
+						<string>iPad4,1</string>
+						<string>iPad4,8</string>
+						<string>iPad6,12</string>
+						<string>iPad7,1</string>
+						<string>iPad5,4</string>
+						<string>iPad4,9</string>
+						<string>iPad4,2</string>
+						<string>iPad7,2</string>
+						<string>iPad4,3</string>
+						<string>iPad6,7</string>
+						<string>iPad7,3</string>
+						<string>iPad4,4</string>
+						<string>iPad6,8</string>
+					</array>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-410E8D93-ABE5-4765-AC4C-1DBFE1E23C19.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -223,7 +259,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.ipa../-4DEB2A1D-B2B1-4521-9ED1-0EC5A352F501</string>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-95B72C3C-A667-4C4C-957A-57462F7A4B53.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -247,7 +283,114 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.ipa../-4957F8BD-BB14-4E6A-9AE4-69D09B7C0539</string>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-A2F8E495-9744-4F2D-ACAC-4B96F5A641DB.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,4</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone7,2</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,1</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,2</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,1</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPod7,1</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>12</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-082714B1-DE0F-49CC-B092-E9F672AC3943.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone5,2</string>
+						<string>iPod5,1</string>
+						<string>iPhone5,3</string>
+						<string>iPhone4,1</string>
+						<string>iPhone5,1</string>
+						<string>iPhone5,4</string>
+					</array>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-26F4FB1A-E3EB-492E-9782-A35A2FA213AD.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone10,2</string>
+						<string>iPhone7,1</string>
+						<string>iPhone10,6</string>
+						<string>iPhone10,5</string>
+						<string>iPhone8,2</string>
+						<string>iPhone9,4</string>
+						<string>iPhone10,3</string>
+						<string>iPhone9,2</string>
+					</array>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-2784DE62-F91A-4955-BCCE-4350A149B1EB.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -264,43 +407,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.ipa../-E4B0E338-EBBA-4EE0-8E3F-E715ACF407CD</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPad7,4</string>
-						<string>iPad4,5</string>
-						<string>iPad7,5</string>
-						<string>iPad4,6</string>
-						<string>iPad6,3</string>
-						<string>iPad5,1</string>
-						<string>iPad6,11</string>
-						<string>iPad7,6</string>
-						<string>iPad5,2</string>
-						<string>iPad6,4</string>
-						<string>iPad4,7</string>
-						<string>iPad5,3</string>
-						<string>iPad4,1</string>
-						<string>iPad4,8</string>
-						<string>iPad6,12</string>
-						<string>iPad7,1</string>
-						<string>iPad5,4</string>
-						<string>iPad4,9</string>
-						<string>iPad4,2</string>
-						<string>iPad7,2</string>
-						<string>iPad4,3</string>
-						<string>iPad6,7</string>
-						<string>iPad7,3</string>
-						<string>iPad4,4</string>
-						<string>iPad6,8</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://www.ipa../-1A159362-CB2C-4152-A4AE-6E85739C4349</string>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-DC1B1F71-C02B-459B-B5EF-BA603B3D8A58.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -381,7 +488,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.ipa../-FD9EEADD-D51F-409E-8350-B4F8C0283513</string>
+					<string>https://github.com/chenhongxin2015/new_project/raw/master/NewProject-09A7A992-4051-4D2A-9100-9329F0C4768E.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -393,113 +500,6 @@
 						<string>iPad2,6</string>
 						<string>iPad2,5</string>
 						<string>iPad2,4</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://www.ipa../-6E23F75A-8EC1-46CB-9ED8-C9E46D53BF9D</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone5,2</string>
-						<string>iPod5,1</string>
-						<string>iPhone5,3</string>
-						<string>iPhone4,1</string>
-						<string>iPhone5,1</string>
-						<string>iPhone5,4</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://www.ipa../-BAC4A315-9A60-4FF0-B583-DC88084FFBF7</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,4</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone7,2</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,1</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,3</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,2</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,1</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPod7,1</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,1</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://www.ipa../-5BCFD9D0-8480-4DCC-B686-DEA8D099A324</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>12</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone11,8</string>
 					</array>
 				</dict>
 			</array>
